@@ -8,7 +8,7 @@ Trần Nguyễn Duy Phát triển danh sách Thực Đơn (Activity/Services sec
 Trần Nguyễn Duy Lập trình form Đặt Đơn & Đặt Bàn, Hệ thống xem/xóa danh sách real-time và khu vực Footer cuối trang.
 Nhóm trưởng: Trần Nguyễn Duy chịu trách nhiệm khởi tạo Repository, review các Pull Request (PR) và merge code vào nhánh main.
 # Mô Tả Dự Án
-**Café Heritage** là một website giới thiệu quán cà phê hiện đại, kết hợp không gian làm việc lý tưởng cho sinh viên và người đi làm. Dự án không chỉ là một trang landing page thông thường mà còn tích hợp các tính năng tương tác thực tế giúp nâng cao trải nghiệm người dùng (UI/UX).
+**Café Tzy** là một website giới thiệu quán cà phê hiện đại, kết hợp không gian làm việc lý tưởng cho sinh viên và người đi làm. Dự án không chỉ là một trang landing page thông thường mà còn tích hợp các tính năng tương tác thực tế giúp nâng cao trải nghiệm người dùng (UI/UX).
 
 ### Các tính năng cốt lõi đã hoàn thiện:
 * **Menu món ăn tương tác:** Cho phép người dùng bấm vào từng thẻ món ăn để xem thông tin chi tiết qua cửa sổ Popup (Modal).
